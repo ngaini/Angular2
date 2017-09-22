@@ -1,0 +1,1 @@
+dataBinding.component.ts

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\homework",
+    "\\src\\app\\successAlert",
+    "\\src\\app\\warningAlert"
+  ],
+  "SelectedNode": "\\src\\app\\successAlert\\success.alert.component.ts",
+  "PreviewInSolutionExplorer": false
+}

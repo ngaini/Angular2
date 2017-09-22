@@ -1,0 +1,3 @@
+﻿<label>Username</label>   <input type="text" [(ngModel)]="username"/>
+<p>{{isDisbleButton()}}</p>
+<button class="btn btn-default" [disabled]="isDisbleButton()" (click)="submitName()">Submit</button>
